@@ -20,6 +20,7 @@ int main (){
     }
   
     media = soma / n;
+    
     printf("A media: %d\n", media);
     printf("A soma: %d\n", soma);
 }
